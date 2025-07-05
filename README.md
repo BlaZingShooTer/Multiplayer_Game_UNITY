@@ -11,7 +11,7 @@ This is a 2D multiplayer game built in Unity using **Netcode for GameObjects** a
 - 🧠 **Game Objective**: Players collect coins to unlock the ability to shoot and heal themselves
 - 🎮 **Real-Time Multiplayer**: Movement and interactions are synced across all players
 - 🔄 **Network Synchronization**: Player movement, shooting, health, and pickups synced via Netcode
-- 🧩 Built with **Unity 202X.X** and **Netcode for GameObjects**
+- 🧩 Built with **Unity 6000.1.7f1** and **Netcode for GameObjects**
 
 ---
 
