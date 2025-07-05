@@ -76,7 +76,3 @@ This project was created as a personal learning experience to explore real-time 
 ---
 
 
-## 📧 Contact
-
-For questions or collaboration, feel free to reach out via GitHub or email.
-
