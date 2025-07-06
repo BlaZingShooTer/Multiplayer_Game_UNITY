@@ -41,12 +41,16 @@ This is a 2D multiplayer game built in Unity using **Netcode for GameObjects** a
 ---
 
 ## 📷 Screenshots / GIFs
+![Screenshot 2025-07-06 200850](https://github.com/user-attachments/assets/6792f4a6-0812-4844-ba89-bb26961223d8)
+![Screenshot 2025-07-06 201001](https://github.com/user-attachments/assets/33539204-5382-4828-b8f0-be6fc9a9287b)
 
-*(Add screenshots or gameplay GIFs here if available)*
+https://github.com/user-attachments/assets/01c4bfef-7575-441e-bdf7-0fbb3d99f66e
+
 
 ---
 
 ## 🧩 How It Works
+
 
 1. **Player clicks "Host"** → Initializes the game and acts as the server
 2. **Other players click "Join"** → Enter join code or connect via lobby
@@ -54,6 +58,7 @@ This is a 2D multiplayer game built in Unity using **Netcode for GameObjects** a
 4. Players collect coins to unlock actions, then aim and shoot at opponents
 
 ---
+
 
 ## 🧪 Getting Started (Local Testing)
 
