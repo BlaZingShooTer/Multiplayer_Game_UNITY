@@ -22,7 +22,7 @@ This is a 2D multiplayer game built in Unity using **Netcode for GameObjects** a
 | Move              | `W` `A` `S` `D` |
 | Shoot             | `Space`      |
 | Aim               | Mouse Cursor |
-| Heal (when available) | Auto or action-triggered depending on gameplay setup |
+| Heal (when available) | Auto when there are enough coins|
 
 > 🪙 Collect coins to gain the ability to **shoot** and **heal**
 
